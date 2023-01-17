@@ -36,3 +36,7 @@ app.MapHub<ChatHub>("/chathub");
 app.MapFallbackToPage("/_Host");
 
 app.Run();
+
+
+
+//test
