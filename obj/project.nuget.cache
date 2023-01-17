@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmyVNj1z0fnIpc684hG2lBzEmX9QragageDBV8NNYklDg0u3VSindBX517894GgDi23kaVDd4X1Vhh1vJZe+Yg==",
+  "success": true,
+  "projectFilePath": "/Users/samuel.broman/repos/japan-project/japan-project.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.connections.abstractions/7.0.2/microsoft.aspnetcore.connections.abstractions.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.http.connections.client/7.0.2/microsoft.aspnetcore.http.connections.client.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.http.connections.common/7.0.2/microsoft.aspnetcore.http.connections.common.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.signalr.client/7.0.2/microsoft.aspnetcore.signalr.client.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.signalr.client.core/7.0.2/microsoft.aspnetcore.signalr.client.core.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.signalr.common/7.0.2/microsoft.aspnetcore.signalr.common.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/7.0.2/microsoft.aspnetcore.signalr.protocols.json.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.features/7.0.2/microsoft.extensions.features.7.0.2.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
+    "/Users/samuel.broman/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
